@@ -1,0 +1,1 @@
+../../../.git/annex/objects/00/09/URL--https&c%%cdn.media.ccc.de%events%hal2001%video%README.TXT/URL--https&c%%cdn.media.ccc.de%events%hal2001%video%README.TXT

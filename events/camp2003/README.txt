@@ -1,0 +1,1 @@
+../../.git/annex/objects/j6/P1/URL--https&c%%cdn.media.ccc.de%events%camp2003%README.txt/URL--https&c%%cdn.media.ccc.de%events%camp2003%README.txt
